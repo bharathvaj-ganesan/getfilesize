@@ -1,5 +1,5 @@
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](https://gruntjs.com/)
-[![Build Status](https://travis-ci.org/bharathvaj1995/array-random-shuffle.svg?branch=master)](https://travis-ci.org/bharathvaj1995/ip-geoinfo) 
+[![Build Status](https://travis-ci.org/bharathvaj1995/getfilesize.svg?branch=master)](https://travis-ci.org/bharathvaj1995/getfilesize) 
 [![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/codeclimate/codeclimate)
 
 # getfilesize   
