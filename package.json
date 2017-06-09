@@ -1,10 +1,13 @@
 {
   "name": "getfilesize",
   "version": "1.0.0",
-  "description": "Get Human Readable file size",
+  "description": "Get Human Readable file size information",
   "main": "index.js",
+  "engines": {
+    "node": ">=4.1.1"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "grunt run"
   },
   "repository": {
     "type": "git",
@@ -19,8 +22,12 @@
   ],
   "author": "Bharathvaj Ganesan",
   "license": "MIT",
+  "homepage": "https://github.com/bharathvaj1995/getfilesize#readme",
   "bugs": {
     "url": "https://github.com/bharathvaj1995/getfilesize/issues"
   },
-  "homepage": "https://github.com/bharathvaj1995/getfilesize#readme"
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
 }
