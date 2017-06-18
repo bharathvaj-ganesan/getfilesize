@@ -6,9 +6,6 @@
   "engines": {
     "node": ">=4.1.1"
   },
-  "scripts": {
-    "run": "grunt run"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bharathvaj1995/getfilesize.git"
